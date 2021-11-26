@@ -1,5 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="linkedin.com/in/shadi-rada">
+<a href="https://www.linkedin.com/in/shadi-rada/">
   <img alt="LinkedIn" height="32" width="32" src="./assets/linkedin.svg">
 </a>
 <a href="https://github.com/shakkyr">
@@ -15,7 +15,7 @@
 
 <br />
 
-hi, i'm [Shadi Rada](linkedin.com/in/shadi-rada), a passionate self-taught full stack web developer from Israel. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Shadi Rada](https://www.linkedin.com/in/shadi-rada/), a passionate self-taught full stack web developer from Israel. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 
 
