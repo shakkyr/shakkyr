@@ -19,7 +19,7 @@ hi, i'm [Shadi Rada](linkedin.com/in/shadi-rada), a passionate self-taught full 
 
 
 
-  <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
   
 
 **languages and tools:**  
@@ -40,13 +40,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-📈 my github stats
-
-<p align="center"> <img src="assets/api.svg" alt="abhisheknaiidu" />
 
 
 
+# Shadi Rada
 
-# shakky
-# shakkyr
-# shakkyr
