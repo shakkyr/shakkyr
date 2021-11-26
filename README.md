@@ -8,10 +8,9 @@
 <a href="https://www.facebook.com/shadi.rada.5">
   <img alt="Facebook" height="32" width="32" src="./assets/facebook.svg">
 </a>
-  <img alt="Facebook" height="32" width="32" src="./assets/gmail.svg">(mailto:shakkyr@gmail.com)
+  [<img alt="alt_text" height="32" width="32" src="./assets/gmail.svg" />](mailto:shakkyr@gmail.com)
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
