@@ -2,12 +2,12 @@
 <a href="https://www.linkedin.com/in/shadi-rada/">
   <img alt="LinkedIn" height="32" width="32" src="./assets/linkedin.svg">
 </a>
- [<img alt="alt_text" height="32" width="32" src="./assets/gmail.svg" />](mailto:shakkyr@gmail.com)
+ 
 <a href="https://www.facebook.com/shadi.rada.5">
   <img alt="Facebook" height="32" width="32" src="./assets/facebook.svg">
 </a>
 
- 
+ [<img alt="alt_text" height="32" width="32" src="./assets/gmail.svg" />](mailto:shakkyr@gmail.com)
 
 
 <br />
