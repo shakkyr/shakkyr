@@ -2,9 +2,6 @@
 <a href="https://www.linkedin.com/in/shadi-rada/">
   <img alt="LinkedIn" height="32" width="32" src="./assets/linkedin.svg">
 </a>
-<a href="https://github.com/shakkyr">
-  <img alt="GitHub" height="32" width="32" src="./assets/github.svg">
-</a>
 <a href="https://www.facebook.com/shadi.rada.5">
   <img alt="Facebook" height="32" width="32" src="./assets/facebook.svg">
 </a>
