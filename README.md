@@ -8,6 +8,7 @@
 </a>
 
  [<img alt="alt_text" height="32" width="32" src="./assets/gmail.svg" />](mailto:shakkyr@gmail.com)
+ [Visit me](https://shadi-portfolio-v3.herokuapp.com/)
 
 
 <br />
